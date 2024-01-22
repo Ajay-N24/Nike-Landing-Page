@@ -15,7 +15,7 @@ const Hero = () => {
           <span className='xl:bg-white xl:whitespace-nowrap relative z-10 pr-10'>The New Arrival</span>
           <br/> 
           <div>
-            <span className='text-red-600 mt-7 inline-block max-lg:mt-0'>Par </span>  <span className='xl:bg-white relative mt-1 xl:whitespace-nowrap z-10 pr-10 max-lg:mt-0'>Shoes</span>
+            <span className='text-red-600 mt-7 inline-block max-lg:mt-0'>Nike </span>  <span className='xl:bg-white relative mt-1 xl:whitespace-nowrap z-10 pr-10 max-lg:mt-0'>Shoes</span>
           </div>
         </h1>
         <p className='font-montserrat text-slate-gray mt-6 text-lg leading-8 mb-9 sm:max-w-sm'>
